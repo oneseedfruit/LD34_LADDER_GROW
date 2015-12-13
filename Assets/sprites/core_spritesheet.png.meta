@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 101734825a5177c42ad75e712df8a239
+timeCreated: 1449973307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_0
+    21300002: spritesheet_1
+    21300004: spritesheet_2
+    21300006: spritesheet_3
+    21300008: spritesheet_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 72
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 149}
+        - {x: -36, y: -149}
+        - {x: 36, y: -149}
+        - {x: 36, y: 149}
+    - name: spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 302
+        width: 298
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149, y: 36}
+        - {x: -149, y: -36}
+        - {x: 149, y: -36}
+        - {x: 149, y: 36}
+    - name: spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 104
+        width: 125
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 135}
+        - {x: -62.5, y: 127}
+        - {x: -62.5, y: 22}
+        - {x: -41.5, y: 0}
+        - {x: 62.5, y: 0}
+        - {x: 62.5, y: 131}
+        - {x: 56.5, y: 135}
+    - name: spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 46
+        width: 124
+        height: 195
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 0}
+        - {x: -62, y: -12}
+        - {x: -62, y: -179}
+        - {x: -53, y: -191}
+        - {x: -47, y: -195}
+        - {x: 55, y: -195}
+        - {x: 62, y: -184}
+        - {x: 62, y: -7}
+        - {x: 49, y: 0}
+    - name: spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 152
+        height: 28
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: ladder
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

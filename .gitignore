@@ -1,0 +1,52 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============================================ #
+# Per seat license assets & unnecessary assets #
+# ============================================ #
+Assets/uIntelliSense/
+Assets/uIntelliSense*
+"Assets/Lost Polygon - Products.pdf" 
+"Assets/Lost Polygon - Products.pdf.meta"
+Assets/AdvancedPlayerPrefsWindow/
+Assets/AdvancedPlayerPrefsWindow*
+"Assets/Editor Default Resources/Core GameKit/"
+Assets/Ps2D/
+Assets/Ps2D*
+Assets/SWS/
+Assets/2DLightAssets/
+Assets/Gamelogic/
+Assets/UnityTestTools/
+Assets/TK2DROOT/
+Assets/TK2DROOT.meta
+Assets/Plugins/DarkTonic/
+Assets/Plugins/Editor/DarkTonic/
