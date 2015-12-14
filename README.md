@@ -1,4 +1,3 @@
-HEAD
 # LADDER GROW
 ###Grow a ladder, climb the ladder, don't let the cat-like creatures touch you. For Ludum Dare 34, Compo Entry.
 
