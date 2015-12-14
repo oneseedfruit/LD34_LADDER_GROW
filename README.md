@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # LADDER GROW
 ###Grow a ladder, climb the ladder, don't let the cat-like creatures touch you. For Ludum Dare 34, Compo Entry.
 
@@ -17,4 +17,3 @@ Made with Unity.
 =======
 # LD32_LADDER_GROW
 Made in about less than half a day for Ludum Dare 34. Compo entry.
->>>>>>> 98eb74f98499db568e04b621e7812a1ce476cf1d
